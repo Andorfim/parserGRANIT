@@ -1,0 +1,12 @@
+googlesearch
+search
+re
+openpyxl
+bs4
+BeatifulSoup
+requests
+urlib.requests
+urlopen
+lxml
+html
+pandas
